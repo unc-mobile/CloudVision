@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "953714252522",
+    "firebase_url": "https://cloudvisionpractice-384a6.firebaseio.com",
+    "project_id": "cloudvisionpractice-384a6",
+    "storage_bucket": "cloudvisionpractice-384a6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953714252522:android:5e66b7e60c9152aade5593",
+        "android_client_info": {
+          "package_name": "com.scroggo.example.cloudvisionpractice"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "953714252522-u7509h1hrcuinkbufkvd0ra0mv571gmm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1umI32_GJGkSK-6I7Km6ibwWt9P0A3Bc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "953714252522-u7509h1hrcuinkbufkvd0ra0mv571gmm.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
