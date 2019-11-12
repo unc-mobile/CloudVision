@@ -2,6 +2,13 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.scroggo.example.cloudvisionpractice">
 
+    <uses-permission android:name="android.permission.INTERNET"/>
+
+    <meta-data
+        android:name="com.google.firebase.ml.vision.DEPENDENCIES"
+        android:value="face" />
+    <!-- To use multiple models: android:value="face,model2,model3" -->
+
     <application
         android:allowBackup="true"
         android:icon="@mipmap/ic_launcher"

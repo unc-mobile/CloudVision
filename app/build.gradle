@@ -31,6 +31,12 @@ dependencies {
     implementation 'com.google.firebase:firebase-analytics:17.2.0'
     // add SDKs for any other desired Firebase products
     // https://firebase.google.com/docs/android/setup#available-libraries
+
+    // ML Kit
+    implementation 'com.google.firebase:firebase-ml-vision:24.0.0'
+
+    // Faces
+    implementation 'com.google.firebase:firebase-ml-vision-face-model:19.0.0'
 }
 
 apply plugin: 'com.google.gms.google-services'
